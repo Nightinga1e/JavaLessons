@@ -1,0 +1,14 @@
+apply plugin: 'java'//подключение плагинов
+apply plugin: 'application'
+mainClassName='Calc' 
+
+
+run{
+	standardInput = System.in
+}
+
+//комманда gradle run
+//потянет за собой комманду gradle build
+
+
+
