@@ -1,0 +1,15 @@
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+gradle
+.gradle
+.gradlein
+.build
+build
+build/
+.class
+.bat
+.idea
+.swp
+
